@@ -1,0 +1,57 @@
+
+body{
+  color: #213D34 !important;
+}
+
+.trocchi-regular {
+  font-family: "Trocchi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.zen-kurenaido-regular {
+  font-family: "Zen Kurenaido", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ul,ul li{
+  list-style:none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav{
+  font-family: 'Zen Kurenaido';
+  list-style: none;
+}
+.btn-link{
+    color: #213D34 !important; 
+    transition: color 0.2s ease-in;
+    text-decoration: none  !important;
+
+    
+}
+h1{
+  text-align: center;
+  font-family: "Trocchi";
+  font-size: 3rem !important;
+}
+h3{
+  font-family: "Trocchi";
+  font-size: 60px !important;
+
+}
+p{
+  font-family: "Zen Kurenaido";
+  font-size: 26px !important;
+}
+a { 
+  text-decoration: none  !important;
+  color: #213D34 !important;
+  &:hover{
+        color: #D9EF78;
+
+    }
+}
+// button{
+//   border-radius: 10% !important;
+// }
